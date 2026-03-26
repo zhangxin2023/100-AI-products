@@ -1,48 +1,35 @@
-# 🚀 100 AI Products by 清溪
+# 100 AI Products
 
-> 用 Cursor + Vibe Coding 完成 100 个 AI 小产品，每一个都是真实可用的网页
+清溪的 AI 产品总目录。
 
-![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Cursor-blue)
-![Status](https://img.shields.io/badge/Status-Building-brightgreen)
+这里主要负责统一整理：
 
----
+- 每个产品做什么
+- 在线体验入口
+- 对应的独立 GitHub 仓库
 
-## 📂 产品列表
+## 已上线
 
-### 📊 已完成
+| # | 产品 | 说明 | 在线体验 | GitHub |
+|---|---|---|---|---|
+| 01 | 年终总结生成器 | 把零散工作内容整理成可交付汇报 | [打开](https://qingxi-year-end-reportcd.vercel.app/) | [qingxi-year-end-report](https://github.com/zhangxin2023/qingxi-year-end-report) |
+| 02 | 到点提醒 · 下班倒计时 | 用倒计时、进度和提醒表达“该下班了” | [打开](https://qingxi-countdown-timer.vercel.app/) | [qingxi-countdown-timer](https://github.com/zhangxin2023/qingxi-countdown-timer) |
+| 03 | AI工具箱 | 按场景整理的轻量 AI 导航站 | [打开](https://qingxi-ai-toolbox.vercel.app/) | [qingxi-ai-toolbox](https://github.com/zhangxin2023/qingxi-ai-toolbox) |
+| 04 | 问问日常 | 日常陪伴方向的小程序与网页版本 | [打开](https://web-showcase-ten.vercel.app/) | [qingxi-wenwen-daily](https://github.com/zhangxin2023/qingxi-wenwen-daily) |
 
-| # | 产品 | 描述 | 链接 |
-|---|------|------|------|
-| 01 | 年终汇报翻译器 | 把年终汇报翻译成老板看得懂的版本 | [在线体验](https://qingxi-year-end-report.vercel.app) · [源码](./year-end-report) |
+## 整理中
 
-### 🔨 开发中
+| 产品 | 状态 |
+|---|---|
+| AI短剧助手 | 独立仓库整理中 |
 
-| # | 产品 | 状态 |
-|---|------|------|
-| 02 | 倒计时工具 | 🔨 开发中 |
+## 说明
 
-### 📋 规划中
+- 这里是总目录，不是单个产品的主仓库
+- 每个产品会尽量保持“项目名、GitHub 仓库名、线上链接”一致
+- 后续新产品会继续往这里补
 
-- [ ] AI 图片生成器
-- [ ] 爆款标题生成器
-- [ ] 小红书封面生成器
-- [ ] ...（持续更新）
+## 作者
 
----
-
-## 🛠️ 技术栈
-
-- **编辑器**: Cursor (AI Code Editor)
-- **部署**: Vercel
-- **方法**: Vibe Coding (用自然语言描述需求，AI 直接生成代码)
-
-## 👤 关于作者
-
-- **清溪** — AI 提效 · 内容操盘手
-- 📕 [小某书](https://xhslink.com/m/15zyxo67w0J) · 🎵 [某音](https://v.douyin.com/jUdv0B2yNdw/) · ⚡ [GitHub](https://github.com/zhangxin2023)
-
----
-
-> 💡 每个产品都是用 Vibe Coding 完成，代码即学即用，欢迎 Star ⭐
-
-*最后更新：2026-03-26*
+- GitHub: https://github.com/zhangxin2023
+- 作品集: https://qingxi-portfolio.vercel.app/
